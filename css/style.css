@@ -166,10 +166,6 @@ h6 {
     width: 10.2rem;
     height: 11.2rem;
     background-color: #121212;
-    /* display: flex;
-    align-items: center;
-    justify-content: center;
-    flex-direction: column; */
 }
 
 .timer-item:not(:last-child) {
@@ -200,6 +196,7 @@ h6 {
     top: 0;
     left: 0;
     z-index: 1;
+    width: 100%;
 }
 
 .work {
